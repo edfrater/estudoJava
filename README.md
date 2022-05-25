@@ -1,4 +1,4 @@
-![Logo of the project](http://logo_link)
+![helloLogo](https://user-images.githubusercontent.com/95386095/170369774-e5dd6aff-ef15-41fc-973f-5518da33702b.png)
  
 ## Exemplo Hello World em modo gráfico.
  
