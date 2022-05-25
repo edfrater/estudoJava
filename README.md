@@ -2,11 +2,11 @@
  
 ## Exemplo Hello World em modo gráfico.
  
-- Repóstório que contém exemplos/fragmentos de códigos escrito em linguagem JAVA. Intenção é mostrar a progressão - fácil ao avançado - a medida que avanço nos estudos em JAVA. Em construção.
+- Repository that contains code examples/fragments written in JAVA language. Intent is to show the progression - easy to advanced - as I advance in JAVA studies. Under construction.
  
-
 ## Technology 
 
+* OS System Arch Linux.
 * VScode 1.67.2
 * openJDK 18.0.1.1
 * openJDK 64 bit server VM
@@ -18,7 +18,7 @@
 ## Getting started
  
 * To install:
-> Basta possuir uma JVM instalado em sua maquina, como são códigos simples, ou seja, de baixa complexidade, certamente será executado em todos os sistemas que possuir uma maquina vrtual JAVA.
+> Just have a JVM installed on your machine, as they are simple codes, that is, of low complexity, it will certainly run on all systems that have a JAVA vrtual machine.
 
 * To compile:
 >    $ javac nome_do_app.java
@@ -26,7 +26,31 @@
 * To run the project:
 >    $ java nome_do_bytecode.class
  
-## How to use
+## Code details:
+
+### example 1: 
+
+![imgN00](https://user-images.githubusercontent.com/95386095/170374002-602446b6-837c-4dbe-9925-7b7a4d8f4106.png)
+
+- we called the IMPORT statement of the JAVA compiler.
+
+### example 2:
+
+![imgN01](https://user-images.githubusercontent.com/95386095/170374003-dbd9be6d-8d9e-429b-8286-0dcc159b11c9.png)
+
+- above we imported or called the swing library.
+
+### example 3:
+
+![imgN02](https://user-images.githubusercontent.com/95386095/170374006-7685131b-ab7d-4745-9041-2489d3f093d5.png)
+
+- JOptionPane.showMessage.dialog uses showMessage method with NULL arguments (null value).
+
+### example 4:
+
+![imgN03](https://user-images.githubusercontent.com/95386095/170374008-b0bd1ffa-f574-45b2-b811-ca0579b27b35.png)
+
+- hello world message using graphical interface.
  
 Here will be the images and descriptions. Principal content.
  
